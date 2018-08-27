@@ -11,3 +11,5 @@ clf=clf.fit(X,Y)
 prediction=clf.predict([[190,70,42]])
 
 print (prediction)
+
+#sgafsaf
